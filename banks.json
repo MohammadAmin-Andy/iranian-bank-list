@@ -418,18 +418,18 @@
     "card_regex": "^627648\\d{10}$",
     "iban_regex": "^IR020\\d{22}$"
   },
-  {
+{
     "card_no": 502908,
     "bank_name": "tosee_taavon",
     "bank_title": "بانک توسعه تعاون",
-    "bank_logo": "./images/tosetaavon.svg",
-    "color": "#0b8a93",
-    "lighter_color": "#3a9db1",
-    "darker_color": "#086673",
-    "iban": "051",
+    "bank_logo": "./images/tosee_taavon.svg",
+    "color": "#009688",
+    "lighter_color": "#33b2a3",
+    "darker_color": "#00796b",
+    "iban": "022",
     "card_regex": "^502908\\d{10}$",
-    "iban_regex": "^IR051\\d{22}$"
-  },
+    "iban_regex": "^IR022\\d{22}$"
+},
   {
     "card_no": 505785,
     "bank_name": "tosee_taavon",
@@ -441,5 +441,54 @@
     "iban": "069",
     "card_regex": "^505785\\d{10}$",
     "iban_regex": "^IR069\\d{22}$"
-  }
+  },
+{
+    "card_no": 507677,
+    "bank_name": "noor",
+    "bank_title": "مؤسسه اعتباری نور",
+    "bank_logo": "./images/noor.svg",
+    "color": "#0066b3",
+    "lighter_color": "#338cd9",
+    "darker_color": "#004a80",
+    "iban": "088",
+    "card_regex": "^507677\\d{10}$",
+    "iban_regex": "^IR088\\d{22}$"
+},
+  {
+    "card_no": 606256,
+    "bank_name": "melal",
+    "bank_title": "مؤسسه اعتباری ملل",
+    "bank_logo": "./images/melal.svg",
+    "color": "#d4a200",
+    "lighter_color": "#e6b933",
+    "darker_color": "#a37b00",
+    "iban": "093",
+    "card_regex": "^606256\\d{10}$",
+    "iban_regex": "^IR093\\d{22}$"
+},
+  {
+    "card_no": 505801,
+    "bank_name": "kosar",
+    "bank_title": "مؤسسه اعتباری کوثر",
+    "bank_logo": "./images/kosar.svg",
+    "color": "#1a73e8",
+    "lighter_color": "#4d8ef5",
+    "darker_color": "#125abc",
+    "iban": "073",
+    "card_regex": "^505801\\d{10}$",
+    "iban_regex": "^IR073\\d{22}$"
+},
+  {
+    "card_no": 505785,
+    "bank_name": "tosse",
+    "bank_title": "مؤسسه اعتباری توسعه",
+    "bank_logo": "./images/tosse.svg",
+    "color": "#008080",
+    "lighter_color": "#33a6a6",
+    "darker_color": "#006666",
+    "iban": "051",
+    "card_regex": "^505785\\d{10}$",
+    "iban_regex": "^IR051\\d{22}$"
+}
+  
 ]
